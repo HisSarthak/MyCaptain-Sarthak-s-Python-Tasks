@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp; Area of a Circle
 <hr width="10%";>
 <b>Task 2:</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp;&nbsp; Extention
 <hr width="10%";>
 <b>Task 3:</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp; 

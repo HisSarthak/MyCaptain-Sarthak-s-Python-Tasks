@@ -1,1 +1,31 @@
 # MyCaptain-Sarthak-s-Python-Tasks
+<b>Task 1:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Area of a Circle
+<hr width="10%";>
+<b>Task 2:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 3:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 4:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 5:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 6:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 7:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 8:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 9:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+<hr width="10%";>
+<b>Task 10:</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+
